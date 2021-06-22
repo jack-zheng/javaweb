@@ -13,6 +13,7 @@
         <module>servlet02</module>
         <module>response</module>
         <module>session-cookies</module>
+        <module>jsp-investigation</module>
     </modules>
 
     <dependencies>
@@ -31,6 +32,14 @@
             <version>2.3.3</version>
             <scope>provided</scope>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/tomcat/jasper-runtime -->
+        <dependency>
+            <groupId>tomcat</groupId>
+            <artifactId>jasper-runtime</artifactId>
+            <version>5.5.23</version>
+        </dependency>
+
 
     </dependencies>
 
