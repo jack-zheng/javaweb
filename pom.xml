@@ -13,6 +13,7 @@
         <module>servlet02</module>
         <module>response</module>
         <module>session-cookies</module>
+        <module>scope-test</module>
     </modules>
 
     <dependencies>
