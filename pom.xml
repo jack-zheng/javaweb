@@ -15,6 +15,7 @@
         <module>session-cookies</module>
         <module>scope-test</module>
         <module>jsp-investigation</module>
+        <module>jsp-basic</module>
     </modules>
 
     <dependencies>
